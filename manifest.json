@@ -1,0 +1,43 @@
+{
+  "input": {
+    "bundle_version": "0.0.0",
+    "esp32c6": {
+      "version": "0.0.6",
+      "file": "esp_input_0_0_6.bin"
+    },
+    "main_stm": {
+      "version": "0.0.9",
+      "file": "main_input_0_0_9.bin"
+    },
+    "iface_stm": {
+      "version": "0.1.2",
+      "file": "ip_interface_0_1_2.bin"
+    }
+  },
+  "output": {
+    "bundle_version": "0.0.0",
+    "esp32c6": {
+      "version": "0.0.6",
+      "file": "esp_output_0_0_6.bin"
+    },
+    "main_stm": {
+      "version": "0.0.9",
+      "file": "main_output_0_0_9.bin"
+    },
+    "iface_stm": {
+      "version": "0.1.2",
+      "file": "op_interface_0_1_2.bin"
+    }
+  },
+  "controller": {
+    "bundle_version": "0.0.0",
+    "esp32c6": {
+      "version": "0.0.6",
+      "file": "esp_controller_0_0_6.bin"
+    },
+    "iface_stm": {
+      "version": "0.1.2",
+      "file": "controller_interface_0_1_2.bin"
+    }
+  }
+}
