@@ -21,7 +21,7 @@
       "file": "esp_output_0_0_6.bin"
     },
     "main_stm": {
-      "version": "0.0.9",
+      "version": "0.1.2",
       "file": "main_output_0_0_9.bin"
     },
     "iface_stm": {
